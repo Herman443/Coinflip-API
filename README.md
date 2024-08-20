@@ -1,4 +1,4 @@
-##[A simple coinflip API in Node.js]
+## A simple coinflip API in Node.js
 
 Setup:
 1. Download or clone
