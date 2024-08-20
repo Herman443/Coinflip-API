@@ -5,10 +5,10 @@ const app = express();
 app.use(cors());
 
 app.get('/', (request, response) => {
-    response.send("<h3>This is a coinflip API.</h3> <p>Access <b>/once</b> for one flip or <b>/flip?coins=[desired amount]</b> for more flips. Enjoy!</p style={{fontSize: 12}}>");
+    response.send("<h3>This is a coinflip API.</h3> <p>Access <b>/once</b> for one flip or <b>/coins?coins=[desired amount]</b> for more flips. Enjoy!</p style={{fontSize: 12}}>");
 });   
 
-app.get('/flip-coins', (request, response) => {
+app.get('/coins', (request, response) => {
     const coins = request.query.coins;
     if(coins && coins > 0) {
         let heads = 0;
