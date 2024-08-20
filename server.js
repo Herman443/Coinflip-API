@@ -31,9 +31,9 @@ app.get('/once', (request, response) => {
     const randomNumber = Math.random();
     let coinValue = '';
     if(randomNumber < 0.5){
-        coinValue = 'heads';
+        coinValue = 'Heads';
     } else {
-        coinValue = 'tails';
+        coinValue = 'Tails';
     }
     response.json({value: coinValue, state: "OK"})
 }); 
