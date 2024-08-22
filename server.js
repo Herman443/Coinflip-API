@@ -25,7 +25,7 @@ app.get('/coins', (request, response) => {
     } else {
         response.json({message: 'Include number of coins', state: "ERROR"});
     } 
-});   
+});
 
 app.get('/once', (request, response) => {
     const randomNumber = Math.random();
@@ -37,6 +37,20 @@ app.get('/once', (request, response) => {
     }
     response.json({value: coinValue, state: "OK"})
 }); 
+
+app.get('/password', (request, response) => {
+    const password = request.query.password;
+    if (password) {
+        if(password == "hermanerkul") {
+                response.json({response: true});
+            } else {
+                response.json({response: false});
+            } 
+    }
+    else {
+        response.json({message: 'Send password pls', state: "ERROR"});
+    }
+});
 
 app.listen(5000, () => {
     console.log('Started server. Listening on port 5000');
