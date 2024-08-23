@@ -39,9 +39,9 @@ app.get('/once', (request, response) => {
 }); 
 
 app.get('/password', (request, response) => {
-    const password = request.query.password;
-    if (password) {
-        if(password == "hermanerkul") {
+    const p = request.query.p;
+    if (p) {
+        if(p == "hermanerkul") {
                 response.json({response: true});
             } else {
                 response.json({response: false});
@@ -52,6 +52,6 @@ app.get('/password', (request, response) => {
     }
 });
 
-app.listen(5000, () => {
+app.listen(5001, () => {
     console.log('Started server. Listening on port 5000');
 });
