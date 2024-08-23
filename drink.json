@@ -1,31 +1,125 @@
-{"tasks": [{"start": "Alle barne kunne rime, untatt ", "slutt": ", som må ta <b>4 slurker</b>"},
-{"start": "", "slutt": "<b>!</b> Hva er forskjellen på deg og en sjokolade? Sjokoladen er digg og du må ta <b>5 slurker</b>"},
-{"start": "Så noen på OL eller?<br/>", "slutt": ", dra frem noe akrobatikk eller drikk <b>3 slurker</b>"},
-{"start": "Det var en gang en elg, svelg!<br/>", "slutt": " passer på at alle tar <br/><b>1 SHOT</b>"},
-{"start": "Stirrekonkuranse!<br/>", "slutt": ", velg deg en motstander som sliter med å holde øynene oppe. Taperen drikker <b>3 slurker</b>"},
-{"start": "Spill: Kategori!<br/>", "slutt": " velger sin favorittkategori og starter runden med å si noe innenfor den. Så går dere runden og sier en ny ting hver innenfor kategorien, helt til en feiler. Taperen drikker <b>5 slurker</b>"},
-{"start": "Mimelek!<br/>", "slutt": " må mime det siste de googlet (eller ta inspirasjon derfra). Den som gjetter riktig deler ut <b>4 slurker</b>"},
-{"start": "Ble det litt romantisk her nå eller? ", "slutt": ", kyss personen til høyre for deg på kinnet eller ta <b>3 slurker</b>"},
-{"start": "Ingen fest uten musikk!<br/>", "slutt": ", sett på den nyeste låta i favoritt spillelisten din. Første som gjetter låta kan dele ut <b>3 slurker</b>"},
-{"start": "", "slutt": ", kom med et spørsmål til gruppen. Det er førstemann til å svare. Er svaret riktig kan smartingen dele ut <b>3 slurker</b>, er det feil må de <b>drikke 6</b>"},
-{"start": "Nødt eller sannhet<br/>", "slutt": ", velg mellom nødt eller sannhet fra den som hoster festen. Blånekt = <b>8 slurker</b>"},
-{"start": "Waterfall!<br/>", "slutt": " setter glasset til munnen og starter å drikke. Alle i rommet drikker samtidig og ingen kan gi seg før han/hun/de stopper"},
-{"start": "Sannhetens time<br/>", "slutt": ", fortell noe ingen andre vet eller drikk <b>3 slurker</b>"},
-{"start": "Kjapt spørsmål!<br/>", "slutt": ", still et ja/nei-spørsmål til en person i rommet. Svarer de feil, må de drikke <b>2 slurker</b>"},
-{"start": "<b>SLUTT Å LESE HØYT. SLUTT Å LESE HØYT</b>. Gi umiddelbart telefonen til: ", "slutt": "<br/><b>Ikke les videre</b><br/><br/><br/>Si svaret på dette spørsmålet høyt: Hvem ville du helst bodd med? De andre spillerene kan ta <b>8 slurker</b> for at du skal hviske spørsmålet til dem"},
-{"start": "Bytt plass!<br/>", "slutt": ", bytt plass med personen på motsatt side av rommet. Begge tar <b>3 slurker</b> på ferden"},
-{"start": "Hvem er mest sannsynlig til å ...?<br/>", "slutt": ", si et scenario og la gruppen stemme. Den som får flest stemmer, drikker <b>5 slurker</b>"},
-{"start": "", "slutt": " ser ut som en med gode historier. Fortell oss om din verste festopplevelse, eller ta <b>3 slurker</b>"},
-{"start": "Utbring en skål!<br/>", "slutt": ", reis deg opp og skål for noe du setter pris på. Alle må drikke <b>2 slurker</b>"},
-{"start": "", "slutt": ", sett deg i fanget til personen på din venstre og bli sittende i to runder til. Siden det plutselig ble veldig koselig kan dere begge ta <b>2 slurker</b>"},
-{"start": "På tide med litt gode vibes!<br/><br/>Personen som ble lest opp sist må gi et kompliment til ", "slutt": ". Alle andre nikker i enighet og tar <b>2 slurker</b>"},
-{"start": "Drinking buddy!<br/>", "slutt": " velger seg en drinking buddy. Resten av spillet må dere <b>matche hverandres slurker</b>"},
-{"start": "Fort dere!<br/><br/>Sistemann til å ta på ", "slutt": " må drikke <b>4 slurker</b>"},
-{"start": "Hva er det jeg hører? Vi har en fyllehund iblant oss!<br/>", "slutt": " må drikke opp <b>RESTEN</b> av enheten sin"},
-{"start": "Gummihatt, gummihatt, gummi gummi gummihatt.<br/><br/>Alle må finne en hatt som ikke egentlig er en hatt.<br/>", "slutt": " er dommer og gir <b>4 slurker</b> til sistemann.<br/><br/>Klar, ferdig, gå!"},
-{"start": "Høyre eller venstre?<br/>", "slutt": " putter noe i høyre eller venstre hånd. Alle i rommet gjetter hvilken hånd som ikke er tom og taperene drikker <b>2 slurker</b>"},
-{"start": "Syng en sang!<br/>", "slutt": " velger en sang og synger en linje fra den. Førstemann som gjetter sangen deler ut <b>4 slurker</b>"},
-{"start": "Dikt!<br/><br/><i>Hukommelsen har mangt et hull,<br/>Og gårsdagen ble bare tull.", "slutt": " ble nok alt for full.<br/>Ingen er overrasket.</i><br/><br/> Alle tar <b>2 slurker</b> til ære for for poeten"},
-{"start": "Jævla shitkid!<br/>", "slutt": " må starte alle setninger med 'Eeeeehm, what the sigma?' resten av spillet. Ulydighet straffes med <b>3 slurker</b>"},
-{"start": "Hva tenker du på?<br/>", "slutt": ", si det første som faller deg inn, uten filter. Hvis du nøler, må du ta <b>3 slurker</b>" }
-]}
+{
+    "tasks": [
+      {
+        "start": "Alle barna kunne rime, unntatt ",
+        "slutt": ", som må ta <b>4 slurker</b>"
+      },
+      {
+        "start": "",
+        "slutt": "<b>!</b> Hva er forskjellen på deg og sjokolade? Sjokoladen er digg, og du må ta <b>5 slurker</b>"
+      },
+      {
+        "start": "Så noen på OL eller?<br/>",
+        "slutt": ", dra frem litt akrobatikk eller drikk <b>3 slurker</b>"
+      },
+      {
+        "start": "Det var en gang en elg, svelg!<br/>",
+        "slutt": " sørger for at alle tar <br/><b>1 SHOT</b>"
+      },
+      {
+        "start": "Stirrekonkurranse!<br/>",
+        "slutt": ", velg en motstander som sliter med å holde øynene åpne. Taperen drikker <b>3 slurker</b>"
+      },
+      {
+        "start": "Spill: Kategori!<br/>",
+        "slutt": " velger sin favorittkategori og sier noe innenfor den. Så går dere runden og sier noe nytt hver, helt til noen feiler. Taperen drikker <b>5 slurker</b>"
+      },
+      {
+        "start": "Mimelek!<br/>",
+        "slutt": " må mime det siste de søkte på Google (eller ta inspirasjon derfra). Den som gjetter riktig, deler ut <b>4 slurker</b>"
+      },
+      {
+        "start": "Ble det litt romantisk her nå? ",
+        "slutt": ", kyss personen til høyre for deg på kinnet, eller ta <b>3 slurker</b>"
+      },
+      {
+        "start": "Ingen fest uten musikk!<br/>",
+        "slutt": ", sett på den nyeste låta i favorittspillelisten din. Første som gjetter låta, kan dele ut <b>3 slurker</b>"
+      },
+      {
+        "start": "",
+        "slutt": ", kom med et spørsmål til gruppen. Den som først svarer riktig kan dele ut <b>5 slurker</b>, alle feil svar må <b>drikke 3 slurker</b>"
+      },
+      {
+        "start": "Nødt eller sannhet<br/>",
+        "slutt": ", velg mellom nødt eller sannhet fra verten.<br/>Blånekt = <b>8 slurker</b>"
+      },
+      {
+        "start": "Waterfall!<br/>",
+        "slutt": " setter glasset til munnen og begynner å drikke. Alle drikker samtidig, og ingen kan stoppe før den første personen stopper"
+      },
+      {
+        "start": "Sannhetens time<br/>",
+        "slutt": ", fortell noe ingen andre vet, eller drikk <b>3 slurker</b>"
+      },
+      {
+        "start": "Kjapt spørsmål!<br/>",
+        "slutt": ", still et ja/nei-spørsmål til en person i rommet. Svarer de feil, må de drikke <b>2 slurker</b>"
+      },
+      {
+        "start": "<b>SLUTT Å LESE HØYT. SLUTT Å LESE HØYT.</b> Gi umiddelbart telefonen til: ",
+        "slutt": "<br/><b>Ikke les videre</b><br/><br/><br/>Si svaret på dette spørsmålet høyt: Hvem ville du helst bodd med? De andre spillerne må ta <b>8 slurker</b> for at du skal hviske spørsmålet til dem"
+      },
+      {
+        "start": "Bytt plass!<br/>",
+        "slutt": ", bytt plass med personen på motsatt side av rommet. Begge tar <b>3 slurker</b> på ferden"
+      },
+      {
+        "start": "Hvem er mest sannsynlig til å ...?<br/>",
+        "slutt": ", si et scenario, og la gruppen stemme. Den som får flest stemmer, drikker <b>5 slurker</b>"
+      },
+      {
+        "start": "",
+        "slutt": " ser ut som en med gode historier. Fortell oss om din verste fylla-/festopplevelse, eller ta <b>3 slurker</b>"
+      },
+      {
+        "start": "Utbring en skål!<br/>",
+        "slutt": ", reis deg opp og skål for noe du setter pris på. Alle må drikke <b>2 slurker</b>"
+      },
+      {
+        "start": "",
+        "slutt": ", sett deg i fanget til personen til venstre, og bli der i to runder. Siden det plutselig ble veldig koselig kan dere begge ta <b>2 slurker</b> begge to"
+      },
+      {
+        "start": "På tide med litt gode vibes!<br/><br/>Personen som ble lest opp sist må gi et kompliment til ",
+        "slutt": ". Alle andre nikker i enighet og tar <b>2 slurker</b>"
+      },
+      {
+        "start": "Drinking buddy!<br/>",
+        "slutt": " velger seg en drinking buddy. Resten av spillet må dere <b>matche hverandres slurker</b>"
+      },
+      {
+        "start": "Fort dere!<br/><br/>Sistemann til å ta på ",
+        "slutt": " må drikke <b>4 slurker</b>"
+      },
+      {
+        "start": "Hva er det jeg hører? Vi har en fyllehund blant oss!<br/>",
+        "slutt": " må drikke opp <b>RESTEN</b> av enheten sin"
+      },
+      {
+        "start": "Gummihatt, gummihatt, gummi gummi gummihatt.<br/><br/>Alle må finne en hatt som ikke egentlig er en hatt.<br/>",
+        "slutt": " er dommer og deler ut <b>4 slurker</b> til sistemann.<br/><br/>Klar, ferdig, gå!"
+      },
+      {
+        "start": "Høyre eller venstre?<br/>",
+        "slutt": " putter noe i sin høyre eller venstre hånd. Alle gjetter hvilken hånd som ikke er tom, og taperne drikker <b>2 slurker</b>"
+      },
+      {
+        "start": "Syng en sang!<br/>",
+        "slutt": " velger en sang og synger en linje. Første person som gjetter sangen, deler ut <b>4 slurker</b>"
+      },
+      {
+        "start": "Dikt!<br/><br/><i>Hukommelsen har mangt et hull,<br/>Og gårsdagen ble bare tull.",
+        "slutt": " ble som vanlig full.<br/>Ingen er overrasket.</i><br/><br/> Alle tar <b>2 slurker</b> til ære for poeten"
+      },
+      {
+        "start": "Jævla shitkid!<br/>",
+        "slutt": " må starte alle setninger med 'Eeeeehm, what the sigma?' resten av spillet. Ulydighet straffes med <b>3 slurker</b>"
+      },
+      {
+        "start": "Hva tenker du på?<br/>",
+        "slutt": ", si det første som faller deg inn, uten filter. Hvis du nøler, må du ta <b>3 slurker</b>"
+      }
+    ]
+  }
+  
