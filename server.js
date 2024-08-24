@@ -40,39 +40,6 @@ app.get('/once', (request, response) => {
     response.json({value: coinValue, state: "OK"});
 }); 
 
-app.get('/password', (request, response) => {
-    const p = request.query.p;
-    if (p) {
-        if(p == "hermanerkul") {
-            response.json({response: true});
-        } else {
-            response.json({response: false});
-        } 
-    } else {
-        response.json({message: 'Send password pls', state: "ERROR"});
-    }
-});
-
-app.get('/drink', (request, response) => {
-    const filePath = path.join(__dirname, 'drink.json');
-
-    fs.readFile(filePath, 'utf8', (err, data) => {
-        if (err) {
-            console.error('Error reading file:', err);
-            response.status(500).json({message: 'Internal Server Error', state: "ERROR"});
-            return;
-        }
-
-        try {
-            const jsonData = JSON.parse(data);
-            response.json(jsonData);
-        } catch (parseErr) {
-            console.error('Error parsing JSON:', parseErr);
-            response.status(500).json({message: 'Error parsing JSON', state: "ERROR"});
-        }
-    });
-});
-
 app.listen(5000, () => {
     console.log('Started server. Listening on port 5000');
 });
